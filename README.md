@@ -6,4 +6,4 @@
   > 강의 : Inflearn | 나도코딩 | 파이썬 무료 강의 (기본편) - 6시간 뒤면 나도 개발자<br>
     목표 기간 : 2021/08/11 ~ 2021/08/31
 ### 🏃‍♂️How is it going?🏃‍♂️
-  > [Data Type](https://github.com/pup-paw/Python-Basics/tree/master/DataType)
+  > [1. Data Type (자료형)](https://github.com/pup-paw/Python-Basics/tree/master/DataType)
