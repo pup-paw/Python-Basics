@@ -12,4 +12,4 @@
   > [Data Structure | 자료구조](https://github.com/pup-paw/Python-Basics/tree/master/DataStructure)  
   > [Control Statement | 제어문](https://github.com/pup-paw/Python-Basics/tree/master/ControlStatement)  
   > [Function | 함수](https://github.com/pup-paw/Python-Basics/tree/master/FunctionPractice)  
-  > [I/O | 입출력](https://github.com/pup-paw/Python-Basics/tree/master/io)  
+  > [I/O | 입출력](https://github.com/pup-paw/Python-Basics/tree/master/IO)  
