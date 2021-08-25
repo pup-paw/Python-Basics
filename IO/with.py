@@ -1,5 +1,6 @@
 import pickle
 
+# with 사용시 .close() 필요 x
 with open("IO/profile.pickle", "rb") as profile_file:
     print(pickle.load(profile_file))
 
