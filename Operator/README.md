@@ -17,3 +17,6 @@
 #### 숫자처리 함수 | [math library](https://github.com/pup-paw/Python-Basics/blob/master/Operator/math_library.py)
   > 
 
+
+#### 숫자처리 함수 | [math library](https://github.com/pup-paw/Python-Basics/blob/master/Operator/random_library.py)
+  > 
