@@ -36,7 +36,7 @@ print(cabinet.keys())
 #value들만 출력
 print(cabinet.values())
 
-#key, value 쌍ㅇ로 출력
+#key, value 쌍로 출력
 print(cabinet.items())
 
 #목욕탕 폐점
