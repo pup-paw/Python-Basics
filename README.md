@@ -16,3 +16,5 @@
   > [Class | 클래스](https://github.com/pup-paw/Python-Basics/tree/master/ClassPractice)  
   > [Exception Handling | 예외처리](https://github.com/pup-paw/Python-Basics/tree/master/ExceptionHandling)  
   > [Modules and Packages | 모듈과 패키지](https://github.com/pup-paw/Python-Basics/tree/master/Modules_Packages)   
+### 🎖result🎖
+  > 2021/08/26 완강!
