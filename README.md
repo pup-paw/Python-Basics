@@ -6,15 +6,15 @@
   > 강의 : Inflearn | 나도코딩 | 파이썬 무료 강의 (기본편) - 6시간 뒤면 나도 개발자<br>
     목표 기간 : 2021/08/11 ~ 2021/08/31
 ### 🏃‍♂️How is it going?🏃‍♂️
-  > [Data Type | 자료형](https://github.com/pup-paw/Python-Basics/tree/master/DataType)  
-  > [Operator | 연산자](https://github.com/pup-paw/Python-Basics/tree/master/Operator)  
-  > [String Processing | 문자열 처리](https://github.com/pup-paw/Python-Basics/tree/master/String)  
-  > [Data Structure | 자료구조](https://github.com/pup-paw/Python-Basics/tree/master/DataStructure)  
-  > [Control Statement | 제어문](https://github.com/pup-paw/Python-Basics/tree/master/ControlStatement)  
-  > [Function | 함수](https://github.com/pup-paw/Python-Basics/tree/master/FunctionPractice)  
-  > [I/O | 입출력](https://github.com/pup-paw/Python-Basics/tree/master/IO)  
-  > [Class | 클래스](https://github.com/pup-paw/Python-Basics/tree/master/ClassPractice)  
-  > [Exception Handling | 예외처리](https://github.com/pup-paw/Python-Basics/tree/master/ExceptionHandling)  
-  > [Modules and Packages | 모듈과 패키지](https://github.com/pup-paw/Python-Basics/tree/master/Modules_Packages)   
+  > - [x] 자료형 | [Data Type](https://github.com/pup-paw/Python-Basics/tree/master/DataType)  
+  > - [x] 연산자 | [Operator](https://github.com/pup-paw/Python-Basics/tree/master/Operator)  
+  > - [x] 문자열 처리 | [String Processing](https://github.com/pup-paw/Python-Basics/tree/master/String)  
+  > - [x] 자료구조 | [Data Structure](https://github.com/pup-paw/Python-Basics/tree/master/DataStructure)  
+  > - [x] 제어문 | [Control Statement](https://github.com/pup-paw/Python-Basics/tree/master/ControlStatement)  
+  > - [x] 함수 | [Function](https://github.com/pup-paw/Python-Basics/tree/master/FunctionPractice)  
+  > - [x] 입출력 | [I/O](https://github.com/pup-paw/Python-Basics/tree/master/IO)  
+  > - [x] 클래스 | [Class](https://github.com/pup-paw/Python-Basics/tree/master/ClassPractice)  
+  > - [x] 예외처리 | [Exception Handling](https://github.com/pup-paw/Python-Basics/tree/master/ExceptionHandling)  
+  > - [x] 모듈과 패키지 | [Modules and Packages](https://github.com/pup-paw/Python-Basics/tree/master/Modules_Packages)   
 ### 🎖result🎖
   > 2021/08/26 완강!
